@@ -2,7 +2,7 @@
 
 ## DEPLOY
 
-https://modified-materials-nine.vercel.app/
+[Modified Materials](https://modified-materials-nine.vercel.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
